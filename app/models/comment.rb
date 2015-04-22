@@ -1,3 +1,3 @@
 class Comment < ActiveRecord::Base
-  # This is a change
+  # I modified this file
 end
